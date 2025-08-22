@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-### Hi there!
+## Hi there!
 
 I'm Juan Pablo Hidalgo, a Chilean astronomer 🇨🇱.
 
