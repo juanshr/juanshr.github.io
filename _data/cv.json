@@ -3,30 +3,30 @@
     "name": "Juan Pablo Hidalgo",
     "email": "juanpablo.hidalgo@uniroma1.it",
     "phone": "",
-    "website": "",
-    "summary": "PhD student",
+    "website": "https://academicpages.github.io",
+    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Rome",
-      "countryCode": "Italy",
+      "city": "Earth",
+      "countryCode": "US",
       "region": ""
     },
     "profiles": [
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=1-BZaBcAAAAJ&hl=en"
+        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
       },
       {
         "network": "ORCID",
         "username": "",
-        "url": "https://orcid.org/0009-0007-0677-0881"
+        "url": "http://orcid.org/yourorcidurl"
       },
       {
         "network": "GitHub",
-        "username": "juanshr",
-        "url": "https://github.com/juanshr""
+        "username": "academicpages",
+        "url": "https://github.com/academicpages"
       }
     ]
   },
