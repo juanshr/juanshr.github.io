@@ -33,7 +33,7 @@ author:
 
   # Academic websites
   academia         : # URL
-  arxiv            : "https://arxiv.org/search/astro-ph?searchtype=author&query=Hidalgo,+J+P"
+  arxiv            : # "https://arxiv.org/search/astro-ph?searchtype=author&query=Hidalgo,+J+P"
   googlescholar    : "https://scholar.google.com/citations?user=1-BZaBcAAAAJ&hl=es"
   inspire-hep      : # URL
   impactstory      : # URL
