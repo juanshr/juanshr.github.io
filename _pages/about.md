@@ -24,6 +24,8 @@ fully compressible magnetohydrodynamic simulations, and (semi)analytical estimat
 
 - I am also interested in the effect of magnetic fields on the habitability of exoplanets.
 
+- Check my working experience, scholarships, interships and additional courses on my [CV](https://juanshr.github.io/cv/).
+
 - Feel free to contact me via email, clicking [here](mailto:juanpablo.hidalgo@uniroma1.it)!
 
 
