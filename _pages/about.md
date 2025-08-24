@@ -14,7 +14,7 @@ redirect_from:
 I'm Juan Pablo Hidalgo, a Chilean astronomer 🇨🇱.
 
 I obtained my BSc in Astronomy at the University of Concepción, Chile, in 2021. Subsequently, 
-I continued my studies at the same institution and received my MSc in Astronomy in 2023
+I continued my studies at the same institution and received my MSc in Astronomy in 2023.
 
 - Currently, I am a PhD candidate at Sapienza Università di Roma, Italy 🇮🇹, since November of 2024.
 
