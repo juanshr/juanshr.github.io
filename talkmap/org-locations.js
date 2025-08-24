@@ -5,7 +5,17 @@ var addressPoints = [
     -58.4440583
   ],
   [
+    "Colloquium at the Hamburg Observatory<br />Hamburger Sternwarte; Hamburg, Germany",
+    53.550341,
+    10.000654
+  ],
+  [
     "Theoretical astrophysics meeting (CATA, Area 7)<br />Universidad de Concepci\u00f3n; Concepci\u00f3n, Chile",
+    -36.8270698,
+    -73.0502064
+  ],
+  [
+    "El Gran Apag\u00f3n: Explorando el fin de la Vida Estelar<br />Instituto de Humanidades de Concepci\u00f3n; Concepci\u00f3n, Chile",
     -36.8270698,
     -73.0502064
   ],
@@ -33,5 +43,10 @@ var addressPoints = [
     "XVIII SOCHIAS meeting<br />Universidad de La Frontera; Temuco, Chile",
     -38.7358908,
     -72.590538
+  ],
+  [
+    "Colloquium at the Institute for Solar Physics<br />Institute for Solar Physics (KIS); Freiburg, Germany",
+    47.9960901,
+    7.8494005
   ]
 ];
