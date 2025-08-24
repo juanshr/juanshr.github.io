@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-- Email: juanpablo.hidalgo (at) uniroma1.it
+Email: juanpablo.hidalgo (at) uniroma1.it
 
 Address
 ======
