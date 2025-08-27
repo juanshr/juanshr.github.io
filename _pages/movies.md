@@ -37,6 +37,18 @@ Associated publication: <strong><a href="https://ui.adsabs.harvard.edu/abs/2025A
 
 All the plots were clipped to $$\pm 5$$ kG.
 
+### Magnetic field components of the enhanced core dynamo.
+
+All the runs with a non horizontal $$(\beta \neq 90^\circ)$$ Dipole B or Dipole B\* have enhanced core dynamos
+with superequipartition fields, 
+stronger than those of MHDr2, their precedessor. The magnetic field components of DipB at $$r=0.2R$$ are shown as an 
+example of these enhanced dynamos, $$B_r$$ and $$B_\theta$$ were clipped to $$\pm 150$$ kG, and $$B_\phi$$ to $$\pm 200$$ kG. 
+
+<video width="900" height="300" controls>
+  <source src="../files/enhanced.mp4" type="video/mp4">
+</video>
+
+
 ### Meridional distribution of the azimuthally averaged magnetic fields of the aligned cases ($$\beta = 0^\circ$$)
 
 The toroidal component is represented with the colormap, and the poloidal component with the arrows, where the width 
