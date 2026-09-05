@@ -8,7 +8,7 @@ redirect_from:
   - /cv
 ---
 
-Last update: 28/01/2026.
+Last update: 05/09/2026.
 
 If the file does not display properly, you can download it [here](https://juanshr.github.io/files/CV.pdf).
 
